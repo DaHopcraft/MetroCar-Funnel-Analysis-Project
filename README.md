@@ -15,7 +15,7 @@
 
 <script type='text/javascript'>
     var containerDiv = document.getElementById('tableauViz');
-    var url = https://public.tableau.com/views/MetroCarFunnel_16990323932940/MetroCarInteractiveDashboard?:language=en-US&:display_count=n&:origin=viz_share_link;
+    var url =https://public.tableau.com/app/profile/deirdre.kroener/viz/MetroCarFunnel_16990323932940/MetroCarInteractiveDashboard;
 
     var options = {
         hideTabs: true,
